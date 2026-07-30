@@ -1,4 +1,4 @@
 streamlit
-tensorflow-cpu
+torch
+torchvision
 Pillow
-numpy
